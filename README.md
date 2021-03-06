@@ -1,4 +1,4 @@
-https://el-opcr.github.io/EricLonguemare_4_06032021/dist/
+https://el-opcr.github.io/EricLonguemare_4_06032021/dist/index.html
 
 install : npm install
 
@@ -10,7 +10,7 @@ W3C linters reports :
 
 index page :
 
-- [x] [HTML5](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fel-opcr.github.io%2FEricLonguemare_4_06032021%2Fdist%2F)
+- [x] [HTML5](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fel-opcr.github.io%2FEricLonguemare_4_06032021%2Fdist%2Findex.html)
 - [x] [CSS3](https://jigsaw.w3.org/css-validator/validator?uri=https://el-opcr.github.io/EricLonguemare_4_06032021/dist/&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
 - [x] [Lighthouse report for mobile](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fel-opcr.github.io%2FEricLonguemare_4_06032021%2Fdist%2Findex.html)
 
