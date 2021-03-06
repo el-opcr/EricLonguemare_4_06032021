@@ -680,6 +680,16 @@ a {
     margin: auto auto auto auto;
 }
 
+.slogan-bloc-text {
+    line-height: 28px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: lighter;
+    max-width: 520px;
+    margin: auto auto auto auto;
+    padding-bottom: 28px;
+}
+
 p {
     font-size: 11px;
 }
