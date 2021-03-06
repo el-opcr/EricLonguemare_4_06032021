@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/el-opcr/EricLonguemare_4_06032021/issues"
   },
-  "homepage": "https://github.com/el-opcr/EricLonguemare_4_06032021/dist",
+  "homepage": "https://el-opcr.github.io/EricLonguemare_4_06032021/dist",
   "devDependencies": {
     "parcel": "^2.0.0-nightly.585"
   }
