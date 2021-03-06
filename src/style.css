@@ -24,7 +24,11 @@ a:hover {
     bottom: 0;
     width: 100%;
     z-index: 100000;
+
+    /* TODO : Failed to resolve 'img/pageload-spinner.gif' from './src/style.css' */
+    /*
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
+     */
 }
 
 .bloc {
