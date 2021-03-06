@@ -1,19 +1,24 @@
 {
   "name": "p4-code",
   "version": "1.0.0",
-  "description": "",
+  "description": "La chouette agence",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel src/index.html",
+    "build": "parcel build --public-url . src/index.html --no-source-maps --no-optimize",
+    "prebuild": "rm -rf dist"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/el-opcr/EricLonguemare_4_06032021.git"
   },
-  "author": "",
+  "author": "el-opcr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/el-opcr/EricLonguemare_4_06032021/issues"
   },
-  "homepage": "https://github.com/el-opcr/EricLonguemare_4_06032021#readme"
+  "homepage": "https://github.com/el-opcr/EricLonguemare_4_06032021/dist",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.585"
+  }
 }
