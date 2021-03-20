@@ -33,6 +33,8 @@
     };
     $parcel$global[parcelRequireName] = parcelRequire;
   }
+  // ASSET: src/js/import-jquery.js
+  var $db780d0df5131a2d5020dbea6b77c0a2$exports = {};
   // ASSET: node_modules/jquery/dist/jquery.js
   var $fb5b6bb7c9d071258e85c5962b4800a5$exports = {};
   var $fb5b6bb7c9d071258e85c5962b4800a5$var$define;
@@ -6815,9 +6817,13 @@
     }
     return jQuery;
   });
+  var _default = window.$ = window.jQuery = $fb5b6bb7c9d071258e85c5962b4800a5$exports;
   function $fb5b6bb7c9d071258e85c5962b4800a5$init() {
     return $fb5b6bb7c9d071258e85c5962b4800a5$exports;
   }
   parcelRequire.register("7EiQU", $fb5b6bb7c9d071258e85c5962b4800a5$init);
+  parcelRequire.register("6G8bl", function () {
+    return $db780d0df5131a2d5020dbea6b77c0a2$exports;
+  });
 })();
 
