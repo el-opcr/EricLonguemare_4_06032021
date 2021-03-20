@@ -25,8 +25,8 @@ build : npm run build - files are in dist/ folder - minification is disabled
 - [Webmasterworld](https://www.webmasterworld.com/) - Followed on a regular basis since 1998
 - [Webrankinfo](https://www.webrankinfo.com/) - Followed on a regular basis since 2003
 
-And a lot of others (SEMRUSH, developers.google.com/web, schema.org, Google Serach Console, Bing webmaster tools, Yandex
-webmaster tool ... )
+And a lot of others (SEMRUSH, developers.google.com/web, schema.org, Google Search Console, Bing webmaster tools, Yandex
+webmaster tool, Google Analytics, Matomo ... )
 
 ## Original starting website linters reports :
 
