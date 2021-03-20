@@ -18,7 +18,7 @@ build : npm run build - files are in dist/ folder - minification is disabled
 
 | Catégorie               | Problème identifié | Explication du problème | Bonne pratique à adopter | Action recommandée | Complexité | Priorité | Référence |
 |-------------------------|--------------------|-------------------------|--------------------------|--------------------|------------|----------|-----------|
-| SEO et accessiblité     | - Bad Heading-level outline |                |                          | 0                  |      XS    |    XXXL  |           |
+| SEO et accessibilité    | - Bad Heading-level outline |  Keyboard navigation breaked,  Missing heading for search engine content indexing             |                          | 0                  |      XS    |    XXXL  |  W3C HTML linter         |
 |                         |                    |                         |                          | 0                  |            |          |           |
 |                         |                    |                         |                          | 0                  |            |          |           |
 |                         |                    |                         |                          | 0                  |            |          |           |
