@@ -16,10 +16,11 @@
   "bugs": {
     "url": "https://github.com/el-opcr/EricLonguemare_4_06032021/issues"
   },
-  "homepage": "https://el-opcr.github.io/EricLonguemare_4_06032021/dist",
+  "homepage": "https://el-opcr.github.io/EricLonguemare_4_06032021",
   "devDependencies": {
     "@parcel/transformer-image": "^2.0.0-nightly.2242",
-    "parcel": "^2.0.0-nightly.585",
+    "jquery": "2.1.0",
+    "parcel": "latest",
     "sharp": "^0.27.2"
   }
 }
