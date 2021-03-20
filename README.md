@@ -20,12 +20,13 @@ build : npm run build - files are in dist/ folder - minification is disabled
 
 ## SEO sources :
 
-[Seroundtable](https://www.seroundtable.com/) - Followed on a regular basis since 2001
-[Searchengineland](https://searchengineland.com/) - Followed on a regular basis since about 10 years
-[Webmasterworld](https://www.webmasterworld.com/) - Followed on a regular basis since 1998
-[Webrankinfo](https://www.webrankinfo.com/) - Followed on a regular basis since 2003
+- [Seroundtable](https://www.seroundtable.com/) - Followed on a regular basis since 2001
+- [Searchengineland](https://searchengineland.com/) - Followed on a regular basis since about 10 years
+- [Webmasterworld](https://www.webmasterworld.com/) - Followed on a regular basis since 1998
+- [Webrankinfo](https://www.webrankinfo.com/) - Followed on a regular basis since 2003
 
-and a lot of others (SEMRUSH, developers.google.com/web, schema.org ... )
+And a lot of others (SEMRUSH, developers.google.com/web, schema.org, Google Serach Console, Bing webmaster tools, Yandex
+webmaster tool ... )
 
 ## Original starting website linters reports :
 
