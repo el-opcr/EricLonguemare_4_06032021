@@ -888,6 +888,7 @@ h4 {
     }
 
     /* https://github.com/w3c/csswg-drafts/issues/1693 */
+    /* https://developer.mozilla.org/fr/docs/Web/CSS/env()#compatibilit%C3%A9_des_navigateurs */
 
     .bloc {
         padding-left: env(safe-area-inset-left);
