@@ -891,8 +891,15 @@ h4 {
     /* https://developer.mozilla.org/fr/docs/Web/CSS/env()#compatibilit%C3%A9_des_navigateurs */
 
     .bloc {
+        /*
         padding-left: env(safe-area-inset-left);
         padding-right: env(safe-area-inset-right);
+        see doc
+        https://github.com/w3c/csswg-drafts/issues/1693
+        https://developer.mozilla.org/fr/docs/Web/CSS/env()#compatibilit%C3%A9_des_navigateurs
+        */
+        padding-left: 10px;
+        padding-right: 10px;
     }
     .bloc-group,
     .bloc-group .bloc {
@@ -902,8 +909,14 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
+
+        /*
         padding-left: env(safe-area-inset-left);
         padding-right: env(safe-area-inset-right);
+        see doc
+        https://github.com/w3c/csswg-drafts/issues/1693
+        https://developer.mozilla.org/fr/docs/Web/CSS/env()#compatibilit%C3%A9_des_navigateurs
+        */
     }
 }
 
