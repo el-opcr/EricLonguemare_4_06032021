@@ -14,6 +14,10 @@ dev : npm run dev - then open browser at http://localhost:1234
 
 build : npm run build - files are in dist/ folder - minification is disabled
 
+## SEO report :
+
+[Download SEO Report](https://github.com/el-opcr/EricLonguemare_4_06032021/raw/master/SEO_Report/Audit-SEO.xlsx)
+
 ## Optimized website linters reports :
 
 index page :
