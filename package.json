@@ -19,6 +19,7 @@
   "homepage": "https://el-opcr.github.io/EricLonguemare_4_06032021",
   "devDependencies": {
     "@parcel/transformer-image": "^2.0.0-nightly.2242",
+    "@parcel/transformer-inline-string": "^2.0.0-nightly.630",
     "@parcel/transformer-sass": "^2.0.0-nightly.630",
     "jquery": "2.1.0",
     "parcel": "latest",
