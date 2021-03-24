@@ -63,7 +63,7 @@ page 2 | Contact :
 | Wording – SEO – Meta                                    | Mauvais ou pas en place                                                                  | Donner du sens et le marquer                                                                         | Meta desc significative – Lien avec sens ,,,                             | Mise en place et/ou complétion,                                                                                      |           |
 | SEO – Sécurité, bonnes pratiques, respect des visiteurs | Des librairies/framework dépassés et présentatnt des failles de sécurité sont utilisées, | XSS ,,, non corrigées ,,, mauvaise pratique                                                          | Les mettre à jour                                                        | Pas fait – trop de changement – Boostrap et Jquery – A faire : Jquery 3,5,1 ou 3,6 – ou Boostrap 5beta et Vanilla JS |           |
 
-[Download SEO Report](https://github.com/el-opcr/EricLonguemare_4_06032021/raw/master/SEO_Report/Audit-SEO.xlsx)
+[Download SEO Report](https://github.com/el-opcr/EricLonguemare_4_06032021/blob/master/SEO_Report/audit-SEO%20.xlsx)
 
 ## SEO sources :
 
