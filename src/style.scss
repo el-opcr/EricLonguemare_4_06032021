@@ -668,6 +668,10 @@ a {
     font-size: 38px;
 }
 
+.hero-bloc-p {
+    font-size: 1.25em;
+}
+
 .hero-bloc-text-sub {
     font-size: 36px;
 }
@@ -690,10 +694,6 @@ a {
     max-width: 520px;
     margin: auto auto auto auto;
     padding-bottom: 28px;
-}
-
-p {
-    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -791,12 +791,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f3c26c !important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #503030!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1079,5 +1079,5 @@ h4 {
 }
 
 p {
-   font-size: 1em;
+   font-size: 1.2em;
 }
